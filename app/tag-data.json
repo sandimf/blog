@@ -1,7 +1,5 @@
 {
-  "next-js": 2,
-  "tailwind": 1,
-  "guide": 1,
-  "feature": 2,
-  "multi-author": 1
+  "business-logic": 1,
+  "vulnerabilities": 1,
+  "cybersecurity": 1
 }
